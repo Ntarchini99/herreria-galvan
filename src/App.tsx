@@ -10,7 +10,7 @@ function App() {
   return (
     <main className="bg-zinc-900 min-h-screen">
       <Navbar />
-      <WhatsAppButton phoneNumber="541158391820" message="Hola, ¿cómo estás?" />
+      <WhatsAppButton/>
       <Hero />
       <Services />
       <Portfolio />
